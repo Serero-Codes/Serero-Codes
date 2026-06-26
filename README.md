@@ -1,6 +1,4 @@
-## Hi there 👋
 
-# Home
 # 💫 About Me:
 Junior Software/AI & Cloud Engineer   
 
